@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.51076f56.css",
-    "main.js": "/react-gh-pages/static/js/main.91405350.js",
-    "static/js/453.56f46472.chunk.js": "/react-gh-pages/static/js/453.56f46472.chunk.js",
-    "static/media/evan.png": "/react-gh-pages/static/media/evan.cfe67bbc99a3e9b37401.png",
-    "static/media/nico.png": "/react-gh-pages/static/media/nico.a4dd1b1589c0e2eea9e7.png",
-    "static/media/Clubphoto.png": "/react-gh-pages/static/media/Clubphoto.4e06d8c1d9110cb357a5.png",
-    "static/media/chris.png": "/react-gh-pages/static/media/chris.0d6482a4aaacaa94d263.png",
-    "static/media/sumedh.png": "/react-gh-pages/static/media/sumedh.2aabdef7a440210edbab.png",
-    "static/media/lucas.png": "/react-gh-pages/static/media/lucas.588715e930def4b425a6.png",
-    "static/media/akshai.png": "/react-gh-pages/static/media/akshai.f505816eb3dd233edf0b.png",
-    "static/media/TCALogo.png": "/react-gh-pages/static/media/TCALogo.b989342544b674ebf7a3.png",
-    "static/media/cloud-service.png": "/react-gh-pages/static/media/cloud-service.fda44a908f8a4780ee28.png",
-    "static/media/analysis.png": "/react-gh-pages/static/media/analysis.a33dae698544af74cf98.png",
-    "static/media/processor.png": "/react-gh-pages/static/media/processor.9e70b30b9b27163974da.png",
-    "static/media/web-programming.png": "/react-gh-pages/static/media/web-programming.a78f8477023ede203f83.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.51076f56.css.map": "/react-gh-pages/static/css/main.51076f56.css.map",
-    "main.91405350.js.map": "/react-gh-pages/static/js/main.91405350.js.map",
-    "453.56f46472.chunk.js.map": "/react-gh-pages/static/js/453.56f46472.chunk.js.map"
+    "main.css": "/TCAWebsite/static/css/main.bcbae19d.css",
+    "main.js": "/TCAWebsite/static/js/main.bd4e55d3.js",
+    "static/js/453.56f46472.chunk.js": "/TCAWebsite/static/js/453.56f46472.chunk.js",
+    "static/media/evan.png": "/TCAWebsite/static/media/evan.cfe67bbc99a3e9b37401.png",
+    "static/media/nico.png": "/TCAWebsite/static/media/nico.a4dd1b1589c0e2eea9e7.png",
+    "static/media/Clubphoto.png": "/TCAWebsite/static/media/Clubphoto.4e06d8c1d9110cb357a5.png",
+    "static/media/chris.png": "/TCAWebsite/static/media/chris.0d6482a4aaacaa94d263.png",
+    "static/media/sumedh.png": "/TCAWebsite/static/media/sumedh.2aabdef7a440210edbab.png",
+    "static/media/lucas.png": "/TCAWebsite/static/media/lucas.588715e930def4b425a6.png",
+    "static/media/akshai.png": "/TCAWebsite/static/media/akshai.f505816eb3dd233edf0b.png",
+    "static/media/TCALogo.png": "/TCAWebsite/static/media/TCALogo.b989342544b674ebf7a3.png",
+    "static/media/cloud-service.png": "/TCAWebsite/static/media/cloud-service.fda44a908f8a4780ee28.png",
+    "static/media/analysis.png": "/TCAWebsite/static/media/analysis.a33dae698544af74cf98.png",
+    "static/media/processor.png": "/TCAWebsite/static/media/processor.9e70b30b9b27163974da.png",
+    "static/media/web-programming.png": "/TCAWebsite/static/media/web-programming.a78f8477023ede203f83.png",
+    "index.html": "/TCAWebsite/index.html",
+    "main.bcbae19d.css.map": "/TCAWebsite/static/css/main.bcbae19d.css.map",
+    "main.bd4e55d3.js.map": "/TCAWebsite/static/js/main.bd4e55d3.js.map",
+    "453.56f46472.chunk.js.map": "/TCAWebsite/static/js/453.56f46472.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51076f56.css",
-    "static/js/main.91405350.js"
+    "static/css/main.bcbae19d.css",
+    "static/js/main.bd4e55d3.js"
   ]
 }
